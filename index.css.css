@@ -18,16 +18,17 @@
     background-color: orange;
     font-family: serif;
     font-size: 18px;
-    
-  }
+}
   #background {
    background-color: lightskyblue;
   }
 button:hover{
   color: #16e249;
 }  
-
-.basicInfo {
+.basicInfo h2 {
   background-color: bisque;
-  text-align: center;
+}
+.basicInfo ul {
+  background-color: bisque;
+  font-size: 20px;
 }
